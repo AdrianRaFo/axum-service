@@ -1,0 +1,9 @@
+tab_spaces = 2
+max_width = 120
+
+unstable_features = true
+fn_single_line = true
+imports_granularity = "Module"
+brace_style = "PreferSameLine"
+wrap_comments = true
+where_single_line = true
